@@ -5,8 +5,8 @@
 <!-- Use a dedicated Conda environment for training: -->
 
 ```bash
-conda create -n rise_training python=3.11.14 -y
-conda activate rise_training
+conda create -n rise python=3.11.14 -y
+conda activate rise
 
 cd /path/to/RISE
 bash install.sh
