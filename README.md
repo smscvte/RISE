@@ -44,6 +44,7 @@ RISE repository is structured with three major parts:
 We thank the following projects for their open-source contributions: [OpenPI Pi0 / Pi05](https://github.com/openpi/openpi), [Genie Envisioner](https://github.com/AgibotTech/Genie-Envisioner), [RLinf](https://github.com/RLinf/RLinf), [LTX-Video](https://github.com/Lightricks/LTX-Video).
 
 ## 📢 News
+- [2026/04/27] 🚀 RISE got accepted to RSS 2026.
 - [2026/04/22] Training code and pre-trained dynamics model are released.
 - [2026/02/11] Paper released on [arXiv](https://arxiv.org/abs/2602.11075).
 
