@@ -1,6 +1,7 @@
 defaults:
   - env/train: roborl
   - env/eval: roborl
+  - _self_
   - override hydra/job_logging: stdout
 
 hydra:

@@ -2,7 +2,6 @@
 assets/
 checkpoints
 checkpoints/
-# data/
 dataset/
 dataset*/
 wandb/
@@ -145,7 +144,7 @@ celerybeat.pid
 # Environments
 .env
 .venv
-env/
+# env/
 venv/
 ENV/
 env.bak/
